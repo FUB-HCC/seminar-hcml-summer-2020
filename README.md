@@ -5,8 +5,6 @@ Reading List and Material for the Seminar "Human-centered machine learning" (HCM
 
 # Reading List and additional Material
 
-[[_TOC_]]
-
 ## Perspectives in HCML
 
 > Gillies, Marco, et al. "Human-centred machine learning." Proceedings of the 2016 CHI Conference Extended Abstracts on Human Factors in Computing Systems. 2016.
@@ -16,13 +14,11 @@ Reading List and Material for the Seminar "Human-centered machine learning" (HCM
 * :video_camera: [Design is [Smart] – Human-Centered Machine Learning](https://www.youtube.com/watch?v=cNW89xkMYLo)
 * :video_camera: [Human Centered Machine Learning November 2017](https://www.youtube.com/watch?v=X3GXRQ5eQSY)
 
-
 ## More on Perspectives in HCML
 * Chancellor, Stevie, et al. **“Who Is the ‘Human’ in Human-Centered Machine Learning: The Case of Predicting Mental Health from Social Media.”** Proceedings of the ACM on Human-Computer Interaction, vol. 3, no. CSCW, Nov. 2019, pp. 147:1–147:32. ACM Digital Library, doi:10.1145/3359249.
 * Fiebrink, Rebecca, and Marco Gillies. **"Introduction to the special issue on human-centered machine learning."** (2018): 1-7.
 * Inkpen, K., Veale, M., Chancellor, S., De Choudhury, M. & Baumer, E. P. S. Where is the human? Bridging the gap between AI and HCI. Conference on Human Factors in Computing Systems - Proceedings vol. 2019.
 * :newspaper: [Human-centered Machine Learning: a Machine-in-the-loop Approach](https://medium.com/@ChenhaoTan/human-centered-machine-learning-a-machine-in-the-loop-approach-ed024db34fe7)
-
 
 ## Interactive Machine Learning (IML) & Human-in-the-loop machine learning
 
@@ -67,7 +63,6 @@ Reading List and Material for the Seminar "Human-centered machine learning" (HCM
 * Choo, Jaegul, and Shixia Liu. "Visual analytics for explainable deep learning." IEEE computer graphics and applications 38.4 (2018): 84-92. 10 pages
 * Spinner, Thilo, et al. "explAIner: A visual analytics framework for interactive and explainable machine learning." IEEE transactions on visualization and computer graphics 26.1 (2019): 1064-1074. [11 pages]
 * :microphone: [Data Skeptic Podcast: Interpretability](https://podcasts.google.com/?feed=aHR0cHM6Ly9kYXRhc2tlcHRpYy5saWJzeW4uY29tL3Jzcw&episode=NjU0OWYzY2MtNmRhZC00NTk4LThlODItZTdhMjc2ODNjOGJi)
-
 
 
 ## Guidelines for Human-AI Interaction and Explanations
